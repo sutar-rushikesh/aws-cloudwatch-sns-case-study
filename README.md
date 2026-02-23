@@ -48,8 +48,6 @@ You are assigned to implement monitoring, alerting, and automated response using
 Rushikesh Sutar\
 DevOps Engineer
 
-Focused on Production-Ready Git Practices
-
 ------------------------------------------------------------------------
 
 ⭐ If this repository helped you, consider giving it a star.
